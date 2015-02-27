@@ -1,7 +1,7 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 # Update a single ServerAlias from terminal
-# easy_install netifacesa
 
 import os
 import re
